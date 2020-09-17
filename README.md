@@ -1,4 +1,4 @@
-![alt pic](./pic1.png)
+![alt pic](./Bee.app/bee.png)
 
 
 # macos-low-battery-beep-beep
